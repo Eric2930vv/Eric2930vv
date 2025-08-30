@@ -2,7 +2,7 @@
 
 
 
-Me chamo Eric William, tenho 15 anos e sou natural do Paraná. Concluí o ensino fundamental e estou cursando ensino médio, com o curso técnico do Alura. Sou apaixonado por tecnologia.
+Me chamo Eric William, tenho 15 anos e sou natural do Paraná. Concluí o ensino fundamental e estou cursando ensino médio, com o curso técnico do Alura.
 
 <p align="left">
     <a href="https://github.com/Eric2930vv?tab=repositories&sort=stargazers">
